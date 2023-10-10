@@ -1,0 +1,36 @@
+_repo: The-statistomat-pitch_71819
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Schoenherr, John
+    aliases:
+    - Schoenherr, Jack
+    - Schoenherr, John (John Carl)
+    birthdate: 1935
+    deathdate: 2010
+    gutenberg_agent_id: '25396'
+    url: http://www.gutenberg.org/2009/agents/25396
+    wikipedia: https://en.wikipedia.org/wiki/John_Schoenherr
+creator:
+  author:
+    agent_name: Davis, Chan
+    gutenberg_agent_id: '56412'
+    url: http://www.gutenberg.org/2009/agents/56412
+description: ''
+gutenberg_issued: '2023-10-06'
+identifiers:
+  gutenberg: '71819'
+language: en
+pgterms:marc905: 20230902111837davis
+pgterms:marc906: '1957'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bRoyal Publications, Inc., $c1957.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The statistomat pitch
+url: http://www.gutenberg.org/ebooks/71819
