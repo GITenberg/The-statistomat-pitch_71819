@@ -11,12 +11,17 @@ contributor:
     gutenberg_agent_id: '25396'
     url: http://www.gutenberg.org/2009/agents/25396
     wikipedia: https://en.wikipedia.org/wiki/John_Schoenherr
+covers:
+- cover_type: archival
+  image_path: 71819-h/images/cover.jpg
 creator:
   author:
     agent_name: Davis, Chan
     gutenberg_agent_id: '56412'
     url: http://www.gutenberg.org/2009/agents/56412
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/71819#The-statistomat-pitch
 gutenberg_issued: '2023-10-06'
 identifiers:
   gutenberg: '71819'
